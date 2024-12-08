@@ -24,5 +24,11 @@ I'm Syauqina Suhaimi, passionate about technology, innovation, and solving real-
 
 ⚙️ Always excited to collaborate on innovative ideas.
 
+### 📊 GitHub Stats
+
+![Syauqina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyauQina&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyauQina&layout=compact&theme=radical)
+
 
 Thanks for stopping by! 🚀
