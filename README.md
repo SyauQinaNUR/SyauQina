@@ -2,7 +2,7 @@
 
 Welcome to My GitHub Profile! 🌟
 
-Hi there! I'm Syauqina Suhaimi, passionate about technology, innovation, and solving real-world problems through code.
+I'm Syauqina Suhaimi, passionate about technology, innovation, and solving real-world problems through code.
 
 🚀 About Me
 
