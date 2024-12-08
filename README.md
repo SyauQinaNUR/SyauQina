@@ -26,7 +26,7 @@ Hi, I'm **Syauqina Suhaimi**, a passionate **Mobile App Developer** with a keen 
 
 ## 📫 Let's Connect!  
 - 📧 Email: [syauqinanur020@gmail.com](mailto:syauqinanur020@gmail.com)  
-- 🌐 LinkedIn: [www.linkedin.com/in/syauqinasuhaimi/](#)  
+- 🌐 LinkedIn: [linkedin.com/in/syauqinasuhaimi/](#)  
 - 💻 Portfolio: [SyauqinaSuhaimi.com](#)  
 
 ---
