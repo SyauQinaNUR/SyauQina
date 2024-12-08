@@ -19,7 +19,7 @@ Hi, I'm **Syauqina Suhaimi**, a passionate **Mobile App Developer** with a keen 
 
 ## 📊 GitHub Stats  
 
-![Hanani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyauQina&show_icons=true&theme=radical)  
+![Syauqina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyauQina&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyauQina&layout=compact&theme=radical)  
 
 ---
