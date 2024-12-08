@@ -17,6 +17,16 @@ Hi, I'm **Syauqina Suhaimi**, a passionate **Mobile App Developer** with a keen 
 
 ---
 
+## 🏆 Achievements  
+
+- 🥇 **Winner**: University Hackathon 2024 - Developed an award-winning app for sustainable learning.  
+- 📜 **Certification**: Google Associate Android Developer Certification.  
+- 🌟 **Featured Project**: DASH app highlighted in [TechToday Magazine](#) for innovation in driving education.  
+- 🎓 **Academic Excellence**: Dean's List Award recipient for three consecutive semesters.  
+- 🌍 **Conference Speaker**: Presented "Leveraging AI in Environmental Monitoring" at the National Tech Conference 2024.  
+
+---
+
 ## 📊 GitHub Stats  
 
 ![Syauqina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyauQina&show_icons=true&theme=radical)  
