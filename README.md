@@ -1,6 +1,6 @@
 # 👋 Welcome to My Profile!
 
-Hi, I'm **Hanani Azmi**, a passionate **Mobile App Developer** with a keen interest in building innovative solutions.
+Hi, I'm **Syauqina Suhaimi**, a passionate **Mobile App Developer** with a keen interest in building innovative solutions.
 
 ---
 
@@ -19,15 +19,15 @@ Hi, I'm **Hanani Azmi**, a passionate **Mobile App Developer** with a keen inter
 
 ## 📊 GitHub Stats  
 
-![Hanani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hananiazmi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hananiazmi&layout=compact&theme=radical)  
+![Hanani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyauQina&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyauQina&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Let's Connect!  
-- 📧 Email: [hananiazmi@example.com](mailto:hananiazmi@example.com)  
-- 🌐 LinkedIn: [linkedin.com/in/hananiazmi](#)  
-- 💻 Portfolio: [hananiazmi.com](#)  
+- 📧 Email: [syauqinanur020@gmail.com](mailto:syauqinanur020@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/SyauqinaSuhaimi](#)  
+- 💻 Portfolio: [SyauqinaSuhaimi.com](#)  
 
 ---
 
