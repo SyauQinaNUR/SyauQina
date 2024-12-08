@@ -17,6 +17,18 @@ Hi, I'm **Syauqina Suhaimi**, a passionate **Mobile App Developer** with a keen 
 
 ---
 
+## 📋 Portfolio Highlights
+
+| **Project**       | **Description**                                                        | **Technologies**         | **Links**                           |
+|--------------------|------------------------------------------------------------------------|--------------------------|--------------------------------------|
+| **DASH**          | A mobile app for scheduling and tracking driver progress in academies. | Flutter, Firebase        | [Repo](#) • [Demo](#)               |
+| **Green Learn**    | An e-learning platform promoting sustainable tech education.          | Laravel, Vue.js          | [Repo](#) • [Website](#)            |
+| **EventEase**      | An app for finding event services like planners and decorators.       | React Native, Firebase   | [Repo](#) • [App Store](#)          |
+| **AI Tree Monitor**| AI-powered system to monitor tree health and prevent disasters.       | Python, TensorFlow       | [Repo](#)                           |
+| **Portfolio Website**| Personal website showcasing projects and achievements.              | HTML, CSS, JavaScript    | [Website](#)                        |
+
+---
+
 ## 🏆 Achievements  
 
 - 🥇 **Winner**: University Hackathon 2024 - Developed an award-winning app for sustainable learning.  
