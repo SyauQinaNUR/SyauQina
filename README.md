@@ -1,34 +1,34 @@
-# Hi there, Welcome to My GitHub Profile! 🌟
+# 👋 Welcome to My Profile!
 
-I'm Syauqina Suhaimi, passionate about technology, innovation, and solving real-world problems through code.
+Hi, I'm **Hanani Azmi**, a passionate **Mobile App Developer** with a keen interest in building innovative solutions.
 
-🚀 About Me
+---
 
-🔭 Currently working on DASH: A Platform for New Driver Progress, a mobile app for managing scheduling and progress tracking in driving academies.
+## 🔭 What I’m Working On  
+- **DASH**: Scheduling and progress tracking app for driving academies.  
+- Exploring **AI applications** in environmental and educational technology.
 
-🌱 Constantly learning and exploring AI applications and mobile development with Flutter and Laravel.
+---
 
-💡 Interested in projects focusing on green technology, education technology, and digital transformation.
+## 🛠️ Skills  
+- **Languages**: Dart, Python, PHP.  
+- **Frameworks**: Flutter, Laravel.  
+- **Tools**: Git, Firebase, Figma.  
 
+---
 
-🤝 Let's Connect!
+## 📊 GitHub Stats  
 
-💬 Feel free to ask me about mobile app development, project management, or AI integration.
+![Hanani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hananiazmi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hananiazmi&layout=compact&theme=radical)  
 
-📫 How to reach me: syauqinanur020@gmail.com
+---
 
+## 📫 Let's Connect!  
+- 📧 Email: [hananiazmi@example.com](mailto:hananiazmi@example.com)  
+- 🌐 LinkedIn: [linkedin.com/in/hananiazmi](#)  
+- 💻 Portfolio: [hananiazmi.com](#)  
 
-⚡ Fun Facts
+---
 
-😄 Pronouns: She/Her
-
-⚙️ Always excited to collaborate on innovative ideas.
-
-### 📊 GitHub Stats
-
-![Syauqina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyauQina&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyauQina&layout=compact&theme=radical)
-
-
-Thanks for stopping by! 🚀
+⚡ *Fun Fact*: "I love brainstorming creative solutions and simplifying complex problems through technology."  
